@@ -1,0 +1,10 @@
+User starting point,ATM 1,5
+User starting point,ATM 2,60
+User starting point,ATM 3,30
+User starting point,ATM 4,45
+ATM 1,ATM 2,40
+ATM 1,ATM 4,45
+ATM 2,ATM 3,15
+ATM 3,ATM 1,40
+ATM 3,ATM 4,15
+ATM 4,ATM 2,30
